@@ -1,0 +1,14 @@
+/Users/mark/Source/repos/webdb/bin/Debug/netcoreapp2.2/webdb.deps.json
+/Users/mark/Source/repos/webdb/bin/Debug/netcoreapp2.2/webdb.runtimeconfig.json
+/Users/mark/Source/repos/webdb/bin/Debug/netcoreapp2.2/webdb.runtimeconfig.dev.json
+/Users/mark/Source/repos/webdb/bin/Debug/netcoreapp2.2/webdb.dll
+/Users/mark/Source/repos/webdb/bin/Debug/netcoreapp2.2/webdb.pdb
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.csprojAssemblyReference.cache
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.csproj.CoreCompileInputs.cache
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.RazorAssemblyInfo.cache
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.RazorAssemblyInfo.cs
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.AssemblyInfoInputs.cache
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.AssemblyInfo.cs
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.RazorTargetAssemblyInfo.cache
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.dll
+/Users/mark/Source/repos/webdb/obj/Debug/netcoreapp2.2/webdb.pdb
