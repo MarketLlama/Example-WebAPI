@@ -15,7 +15,8 @@ public class HomeController : Controller
     }
     public IActionResult Index()
     {
-        return View();
+        var model = _vehicleRepository.GetAllVehicle();
+        return View(model);
     }
     public IActionResult About()
     {
